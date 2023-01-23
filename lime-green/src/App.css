@@ -8,6 +8,7 @@
 }
 
 .App-header {
+  background-image: url('./background-fruit.webp');
   background-color: greenyellow;
   min-height: 100vh;
   display: flex;
@@ -16,4 +17,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+img{
+  border-radius: 50%;
+}
+p{
+  color:aquamarine;
+  font-weight: bold;
+}
+h1 {
+  color: aquamarine;
 }

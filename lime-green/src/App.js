@@ -13,6 +13,9 @@ function App() {
           Spring 2023
         </h1>
       </header>
+      <footer className="Footer">
+        Copyright 2023
+      </footer>
     </div>
   );
 }
